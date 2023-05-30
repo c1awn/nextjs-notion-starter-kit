@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'b173fcc06755476c8d0ddb95dc405cc7',
+  rootNotionPageId: 'ad88cd3f3fcc4240ad0d681e03eb32ef',
   //rootNotionPageId: '4e92183501914cfa80d6a7ba399368d9',
 
   
@@ -11,16 +11,16 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'chawn',
+  name: '苏颜',
+  domain: 'suyan.e1cent.top',
+  author: 'suyan',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
-  github: 'c1awn',
+  //github: 'c1awn',
   //linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
